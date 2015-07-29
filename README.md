@@ -1,4 +1,0 @@
-hellosofts
-==========
-
-initial pages
